@@ -1,0 +1,11 @@
+{
+  "name": "projeto-next",
+  "version": "1.0.0",
+  "description": "Testando projeto next",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "author": "",
+  "license": "ISC"
+}
